@@ -1,0 +1,7 @@
+El lunes es un buen dia para estudiar Python
+El martes es un buen dia para estudiar Python
+El miercoles es un buen dia para estudiar Python
+El jueves es un buen dia para estudiar Python
+El viernes es un buen dia para estudiar Python
+El sabado es un buen dia para estudiar Python
+¿Crees que por ser domingo vas a librar? Hoy te toca sesion doble de Python!!!
